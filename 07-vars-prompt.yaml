@@ -6,7 +6,7 @@
   - name: DURATION
     prompt: please enter the duration 
   - name: TRAINER
-    propmt: please enter the trainer name
+    prompt: please enter the trainer name
   tasks:
   - name: print the course information
     ansible.builtin.debug:
