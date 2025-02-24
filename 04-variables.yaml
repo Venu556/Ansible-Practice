@@ -3,3 +3,4 @@
   tasks:
   - name: print the information
     ansible.builtin.debug:
+      msg: "Hi, i am learning devops with AZURE"
